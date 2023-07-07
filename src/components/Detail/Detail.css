@@ -1,0 +1,45 @@
+
+.details{
+    display:flex;
+    justify-content: center;
+    border-style: groove;
+    border-color: rgb(73, 170, 104);
+    border-radius:10%;
+    padding: 1%;
+    border: 150px;
+}
+.details div{
+    display: flex;
+    justify-content: flex-start;
+    border-style: groove;
+    border-color: aqua;
+    width: 135px;
+    height: 135px;
+    background: local;
+    background-color: rgba(5, 255, 14, 0.577);
+    font-size:medium;
+
+}
+.details div:hover{
+    border-color: green;
+    font-style:oblique;
+}
+.details p{
+    color: blue;
+    justify-content: space-around;
+    font-display:initial;
+    flex:auto;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top:14.5cm;
+}
+.details img{
+    border-style: double;
+    border-color: aqua;
+}
+img{
+    border-style: groove;
+    border-color: rgb(4, 255, 171);
+    border-radius: 25%;
+}

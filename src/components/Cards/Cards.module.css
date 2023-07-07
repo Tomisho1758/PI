@@ -1,0 +1,9 @@
+.div{
+    size-adjust:inherit;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}

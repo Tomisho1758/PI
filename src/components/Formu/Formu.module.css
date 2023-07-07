@@ -1,0 +1,34 @@
+.landingContainer{
+    padding: 1000px 1500px
+}
+.formContainer{
+    border-style:groove;
+    border-color: aqua;
+}
+.formTitle{
+    color: chartreuse;
+}
+.credentials{
+    border-style: groove;
+    border-color:rgb(0, 255, 191) ;
+   
+    
+}
+input{
+    justify-content: center;
+    border-style: double;
+    border-color: darkgreen;
+    height: 1cm;
+    width: 3.5cm;
+    text-size-adjust: 100px;
+
+}
+.submitBtn{
+    height: 1cm;
+    width: 10cm;
+    border-style: groove;
+    border-color: rgb(0, 255, 110);
+    color: darkgreen;
+    background-color: darkturquoise;
+    font-family: 'Lucida Sans';
+}

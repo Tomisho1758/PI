@@ -1,0 +1,11 @@
+.nav{
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav :hover{
+    background-color: aqua;
+}
